@@ -1,0 +1,76 @@
+﻿
+@{
+    ViewBag.Title = "List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container products" ng-controller="ProductCtrl">
+    <div class="row">
+
+        <button class="btn btn-primary" ng-click="insertProduct()">Insert product</button>
+
+        <table class="table table-responsive">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Price</th>
+                    <th>Count</th>
+                    <th>
+                        
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="product in products">
+                    <td>{{product.Name}}</td>
+                    <td>{{product.Description}}</td>
+                    <td>{{product.Price}}</td>
+                    <td>{{product.Count}}</td>
+                    <td>
+                        <input type="button" class="btn btn-primary" value="Edit" ng-click="editProduct(product)" />
+                        <input type="button" class="btn btn-danger" value="Delete" ng-click="deleteProduct(product)" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+<script type="text/ng-template" id="product.html">
+    <form name="productForm" ng-submit="saveProduct()">
+        <div class="container">
+            <div class="row">
+                <div class="panel panel-default">
+                    <div class="panel-heading">Save Product</div>
+                    <div class="panel-body">
+                        <div class="form-group">
+                            <label for="txtName">Name</label>
+                            <input type="text" ng-model="product.Name" required value="{{product.Name}}" class="form-control" name="txtName" id="txtName" />
+                        </div>
+
+                        <div class="form-group">
+                            <label for="txtDescription">Description</label>
+                            <input type="text" ng-model="product.Description" value="{{product.Description}}" class="form-control" name="txtDescription" id="txtDescription" />
+                        </div>
+
+                        <div class="form-group">
+                            <label for="txtPrice">Price</label>
+                            <input type="number" ng-model="product.Price" value="{{product.Price}}" toNumber class="form-control" name="txtPrice" id="txtPrice" />
+                        </div>
+
+                        <div class="form-group">
+                            <label for="txtCount">Name</label>
+                            <input type="number" ng-model="product.Count" value="{{product.Count}}" toNumber class="form-control" name="txtCount" id="txtCount" />
+                        </div>
+                    </div>
+                    <div class="panel-footer">
+                        <input type="submit" value="Save" class="btn btn-success" />
+                        <input type="button" value="Cancel" class="btn btn-warning" ng-click="cancel()" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</script>

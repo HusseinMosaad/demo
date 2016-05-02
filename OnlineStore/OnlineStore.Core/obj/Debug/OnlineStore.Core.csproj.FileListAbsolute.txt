@@ -1,0 +1,5 @@
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Core\bin\Debug\OnlineStore.Core.dll
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Core\bin\Debug\OnlineStore.Core.pdb
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Core\obj\Debug\OnlineStore.Core.csprojResolveAssemblyReference.cache
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Core\obj\Debug\OnlineStore.Core.dll
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Core\obj\Debug\OnlineStore.Core.pdb

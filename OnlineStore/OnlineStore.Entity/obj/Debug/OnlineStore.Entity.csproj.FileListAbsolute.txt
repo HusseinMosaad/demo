@@ -1,0 +1,14 @@
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Entity\bin\Debug\OnlineStore.Entity.dll.config
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Entity\bin\Debug\OnlineStore.Entity.dll
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Entity\bin\Debug\OnlineStore.Entity.pdb
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Entity\bin\Debug\EntityFramework.dll
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Entity\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Entity\bin\Debug\OnlineStore.Core.dll
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Entity\bin\Debug\OnlineStore.Core.pdb
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Entity\bin\Debug\EntityFramework.xml
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Entity\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Entity\obj\Debug\OnlineStore.Entity.csprojResolveAssemblyReference.cache
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Entity\obj\Debug\OnlineStore.Entity.dll
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Entity\obj\Debug\OnlineStore.Entity.pdb
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Entity\obj\Debug\OnlineStore.Entity.Migrations.InitializeDatabase.resources
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Entity\obj\Debug\OnlineStore.Entity.csproj.GenerateResource.Cache

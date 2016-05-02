@@ -1,0 +1,11 @@
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Service\bin\Debug\OnlineStore.Service.dll
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Service\bin\Debug\OnlineStore.Service.pdb
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Service\obj\Debug\OnlineStore.Service.csprojResolveAssemblyReference.cache
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Service\obj\Debug\OnlineStore.Service.dll
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Service\obj\Debug\OnlineStore.Service.pdb
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Service\bin\Debug\OnlineStore.Core.dll
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Service\bin\Debug\OnlineStore.Entity.dll
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Service\bin\Debug\EntityFramework.dll
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Service\bin\Debug\OnlineStore.Core.pdb
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Service\bin\Debug\OnlineStore.Entity.pdb
+c:\users\hussein\documents\visual studio 2015\Projects\OnlineStore\OnlineStore.Service\bin\Debug\EntityFramework.xml
